@@ -55,7 +55,7 @@ ID     Name     Department     Salary
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+```
 
 If you want me to help create a LICENSE file or add any additional details, just ask!
 ```
